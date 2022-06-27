@@ -1,5 +1,8 @@
+
 <center><h1>Compte-Rendu</h1></center>
 <hr>
+L'objectif de ces travaux pratique est de créer un broker Kafka pour envoyé des messages vers un topic
+par un producer et le reçoi ce message par un consumer.
 <h3>Dans ce TP on utilise spring cloud streams function</h3>
 <li><b>Kafka broker et zookeeper</b></li>
 <img src="./screens/1.JPG"><br>
